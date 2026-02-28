@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "scraped_at": "2026-02-26T23:32:44Z",
+    "round_context": {
+      "last_completed_round": null,
+      "last_completed_race": null,
+      "upcoming_round": 1,
+      "upcoming_race": "Australian GP",
+      "is_race_week": false,
+      "file_type": "pre-round"
+    }
+  },
+  "drivers": [
+    {
+      "name": "Max Verstappen",
+      "team": "Red Bull Racing",
+      "price_millions": 27.7,
+      "ownership_pct": 28.0
+    },
+    {
+      "name": "George Russell",
+      "team": "Mercedes",
+      "price_millions": 27.4,
+      "ownership_pct": 19.0
+    },
+    {
+      "name": "Lando Norris",
+      "team": "McLaren",
+      "price_millions": 27.2,
+      "ownership_pct": 12.0
+    },
+    {
+      "name": "Oscar Piastri",
+      "team": "McLaren",
+      "price_millions": 25.5,
+      "ownership_pct": 13.0
+    },
+    {
+      "name": "Kimi Antonelli",
+      "team": "Mercedes",
+      "price_millions": 23.2,
+      "ownership_pct": 15.0
+    },
+    {
+      "name": "Charles Leclerc",
+      "team": "Ferrari",
+      "price_millions": 22.8,
+      "ownership_pct": 33.0
+    },
+    {
+      "name": "Lewis Hamilton",
+      "team": "Ferrari",
+      "price_millions": 22.5,
+      "ownership_pct": 15.0
+    },
+    {
+      "name": "Isack Hadjar",
+      "team": "Red Bull Racing",
+      "price_millions": 15.1,
+      "ownership_pct": 30.0
+    },
+    {
+      "name": "Pierre Gasly",
+      "team": "Alpine",
+      "price_millions": 12.0,
+      "ownership_pct": 16.0
+    },
+    {
+      "name": "Carlos Sainz",
+      "team": "Williams",
+      "price_millions": 11.8,
+      "ownership_pct": 37.0
+    },
+    {
+      "name": "Alexander Albon",
+      "team": "Williams",
+      "price_millions": 11.6,
+      "ownership_pct": 12.0
+    },
+    {
+      "name": "Fernando Alonso",
+      "team": "Aston Martin",
+      "price_millions": 10.0,
+      "ownership_pct": 16.0
+    },
+    {
+      "name": "Lance Stroll",
+      "team": "Aston Martin",
+      "price_millions": 8.0,
+      "ownership_pct": 4.0
+    },
+    {
+      "name": "Oliver Bearman",
+      "team": "Haas F1 Team",
+      "price_millions": 7.4,
+      "ownership_pct": 58.0
+    },
+    {
+      "name": "Esteban Ocon",
+      "team": "Haas F1 Team",
+      "price_millions": 7.3,
+      "ownership_pct": 16.0
+    },
+    {
+      "name": "Nico Hulkenberg",
+      "team": "Audi",
+      "price_millions": 6.8,
+      "ownership_pct": 37.0
+    },
+    {
+      "name": "Liam Lawson",
+      "team": "Racing Bulls",
+      "price_millions": 6.5,
+      "ownership_pct": 22.0
+    },
+    {
+      "name": "Gabriel Bortoleto",
+      "team": "Audi",
+      "price_millions": 6.4,
+      "ownership_pct": 23.0
+    },
+    {
+      "name": "Arvid Lindblad",
+      "team": "Racing Bulls",
+      "price_millions": 6.2,
+      "ownership_pct": 20.0
+    },
+    {
+      "name": "Franco Colapinto",
+      "team": "Alpine",
+      "price_millions": 6.2,
+      "ownership_pct": 16.0
+    },
+    {
+      "name": "Sergio Perez",
+      "team": "Cadillac",
+      "price_millions": 6.0,
+      "ownership_pct": 28.0
+    },
+    {
+      "name": "Valtteri Bottas",
+      "team": "Cadillac",
+      "price_millions": 5.9,
+      "ownership_pct": 32.0
+    }
+  ],
+  "constructors": [
+    {
+      "name": "Mercedes",
+      "price_millions": 29.3,
+      "ownership_pct": 23.0
+    },
+    {
+      "name": "McLaren",
+      "price_millions": 28.9,
+      "ownership_pct": 17.0
+    },
+    {
+      "name": "Red Bull Racing",
+      "price_millions": 28.2,
+      "ownership_pct": 10.0
+    },
+    {
+      "name": "Ferrari",
+      "price_millions": 23.3,
+      "ownership_pct": 41.0
+    },
+    {
+      "name": "Alpine",
+      "price_millions": 12.5,
+      "ownership_pct": 8.0
+    },
+    {
+      "name": "Williams",
+      "price_millions": 12.0,
+      "ownership_pct": 17.0
+    },
+    {
+      "name": "Aston Martin",
+      "price_millions": 10.3,
+      "ownership_pct": 4.0
+    },
+    {
+      "name": "Haas F1 Team",
+      "price_millions": 7.4,
+      "ownership_pct": 35.0
+    },
+    {
+      "name": "Audi",
+      "price_millions": 6.6,
+      "ownership_pct": 18.0
+    },
+    {
+      "name": "Racing Bulls",
+      "price_millions": 6.3,
+      "ownership_pct": 15.0
+    },
+    {
+      "name": "Cadillac",
+      "price_millions": 6.0,
+      "ownership_pct": 12.0
+    }
+  ]
+}
