@@ -1,0 +1,236 @@
+{
+  "project": "F1 Fantasy 2026 - GPT RS Team",
+  "totalRounds": 24,
+  "lastUpdated": "2026-02-28",
+  "rounds": [
+    {
+      "round": 0,
+      "name": "Pre-Season Testing",
+      "files": {
+        "prices": "prices/prices-PRE-ROUND-1.json",
+        "teamPrice": "team-price/team-PRE-ROUND-1.json",
+        "report": "round-reports/round-1-pre-report.md"
+      }
+    },
+    {
+      "round": 1,
+      "name": "Bahrain",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 2,
+      "name": "China",
+      "sprintWeekend": true,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 3,
+      "name": "Japan",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 4,
+      "name": "Australia",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 5,
+      "name": "Monaco",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 6,
+      "name": "Miami",
+      "sprintWeekend": true,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 7,
+      "name": "Canada",
+      "sprintWeekend": true,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 8,
+      "name": "Spain",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 9,
+      "name": "Austria",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 10,
+      "name": "France",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 11,
+      "name": "Britain",
+      "sprintWeekend": true,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 12,
+      "name": "Hungary",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 13,
+      "name": "Belgium",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 14,
+      "name": "Netherlands",
+      "sprintWeekend": true,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 15,
+      "name": "Italy",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 16,
+      "name": "Azerbaijan",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 17,
+      "name": "Mexico",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 18,
+      "name": "Singapore",
+      "sprintWeekend": true,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 19,
+      "name": "USA",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 20,
+      "name": "Brazil",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 21,
+      "name": "Las Vegas",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    },
+    {
+      "round": 22,
+      "name": "Abu Dhabi",
+      "sprintWeekend": false,
+      "files": {
+        "prices": null,
+        "teamPrice": null,
+        "report": null
+      }
+    }
+  ]
+}

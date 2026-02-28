@@ -1,0 +1,12 @@
+# Ignore everything
+/*
+
+# Exception: allow these files and directories and their contents
+!.gitignore
+!/index.json
+!/prices/
+!/round-reports/
+!/team-price/
+!/prices/**
+!/round-reports/**
+!/team-price/**
